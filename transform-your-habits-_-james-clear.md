@@ -1,4 +1,4 @@
-# Transform Your Habits
+# Transform Your Habits - James Clear
 
 ## Why Is It So Hard to Stick to Good Habits?
 
@@ -8,7 +8,7 @@ It may be because we usually try to make changes in the wrong way.
 
 > Your audacious life goals are fabulous. We’re proud of you for having them. But it’s possible that those goals are designed to distract you from the thing that’s really frightening you - the shift in daily habits that would mean a re-invention of how you see yourself. - Seth Godin
 
-When you hear about a success story, the only thing you know is the event people are talking about. You never hear about the process and the habits that led to the eventual result. These incedible stories trick you into doing too much, too soon. You do not need the overnight success, you nee better habits.
+When you hear about a success story, the only thing you know is the event people are talking about. You never hear about the process and the habits that led to the eventual result. These incredible stories trick you into doing too much, too soon. You do not need the overnight success, you nee better habits.
 
 Everything that we are today are a result of your habits. What you repeatedly do ultimately forms the person you are, the things you believe, and the personality you portray.
 
@@ -30,7 +30,7 @@ You can use this structure to create new habits and stick to them.
 
 ## Identity-Based Habits: How to Actually Stick to Your Goals For the Long-Term
 
-In order to belive in a new identity, we have to prove it to ourselves.
+In order to believe in a new identity, we have to prove it to ourselves.
 
 Your current behaviors are simply a reflection of your current identity. Hence, to change your behavior for good, you need to start believing new things about yourself.
 
@@ -55,9 +55,9 @@ Daily habits - tiny routines that are repeatable - are what make big dreams a re
 
 Making changes is tough. Whenever your schedule gets crazy, the inertia of life can pull you away from your goals and right back into your old habits.
 
-The one common mistake we often make when it comes to setting goals is, we set a deadline, but not a schedule. With this strategy, if we don't achieve the arbitary deadline timeline what we set in the beginning, we feel like a failure. The end result, is that we often give up if we don't reach our goal by the initial deadline.
+The one common mistake we often make when it comes to setting goals is, we set a deadline, but not a schedule. With this strategy, if we don't achieve the arbitrary deadline what we set in the beginning, we feel like a failure. The end result, is that we often give up if we don't reach our goal by the initial deadline.
 
-Instead of giving yourself a deadline to accomplish a particular goal by, you should choose a goal that is important to you and then set a schedule to work towards it consistenty.
+Instead of giving yourself a deadline to accomplish a particular goal by, you should choose a goal that is important to you and then set a schedule to work towards it consistently.
 
 If you want to be the type of person who accomplishes things on a consistent basis, then give yourself a schedule to follow, not a deadline to race towards.
 
@@ -88,11 +88,11 @@ In the beginning, your healthy habits might take two steps forward and one step 
 
 Bad habits are caused by two things: stress and boredom.
 
-You can teach yourself new and healthy ways to deal with stress and boredom, which you can then substitue in place of your bad habits.
+You can teach yourself new and healthy ways to deal with stress and boredom, which you can then substitute in place of your bad habits.
 
 All of the habits that you have right now - good or bad - are in your life for a reason. In some way, these behaviors provide a benefit to you, even if they are bad for you in other ways. These benefits extend to smaller bad habits as well.
 
-It's very difficult to simply eliminate bad habits as they provide some type of benefit in your life. Hence you need to **replace a bad habit with a new habit** that provides a similar benefit.
+It's very difficult to simply eliminate bad habits as they provide some type of benefit in your life. Hence you need to  **replace a bad habit with a new habit** that provides a similar benefit.
 
 You can **cut out as many triggers as possible**, the ones that lead to your bad habits. Change the environment and you can change the outcome.
 
@@ -102,7 +102,7 @@ You can **cut out as many triggers as possible**, the ones that lead to your bad
 
 **You don't need to be someone else, you just need to return to the old you.** You already have inside of you, that person without your bad habits that you want to become. Even if that was years ago, you have already lived without that bad habit, which means you can most definitely do it again.
 
-**Use the word 'but' to overcome negative self-talk.** Everytime you slip up or make a mistake, it's easy to tell yourself how much you suck. Whenever that happens, finish the sentence with "but".
+**Use the word 'but' to overcome negative self-talk.** Every time you slip up or make a mistake, it's easy to tell yourself how much you suck. Whenever that happens, finish the sentence with "but".
 
 **Plan for failure.** We all get off the track, what separates top performers from everyone else is that they get back on track very quickly.
 
