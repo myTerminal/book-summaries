@@ -8,7 +8,7 @@ It may be because we usually try to make changes in the wrong way.
 
 > Your audacious life goals are fabulous. We’re proud of you for having them. But it’s possible that those goals are designed to distract you from the thing that’s really frightening you - the shift in daily habits that would mean a re-invention of how you see yourself. - Seth Godin
 
-When you hear about a success story, the only thing you know is the event people are talking about. You never hear about the process and the habits that led to the eventual result. These incredible stories trick you into doing too much, too soon. You do not need the overnight success, you nee better habits.
+When you hear about a success story, the only thing you know is the event people are talking about. You never hear about the process and the habits that led to the eventual result. These incredible stories trick you into doing too much, too soon. You do not need the overnight success, you need better habits.
 
 Everything that we are today are a result of your habits. What you repeatedly do ultimately forms the person you are, the things you believe, and the personality you portray.
 
@@ -24,7 +24,7 @@ If the reward is positive, then the cycle forms a positive feedback loop that te
 
 You can use this structure to create new habits and stick to them.
 
-1. Use a current habit as the reminder for your new one
+1. Use a current habit as a reminder for your new one
 2. Make your habits incredibly easy to start
 3. Always reward yourself
 
@@ -55,7 +55,7 @@ Daily habits - tiny routines that are repeatable - are what make big dreams a re
 
 Making changes is tough. Whenever your schedule gets crazy, the inertia of life can pull you away from your goals and right back into your old habits.
 
-The one common mistake we often make when it comes to setting goals is, we set a deadline, but not a schedule. With this strategy, if we don't achieve the arbitrary deadline what we set in the beginning, we feel like a failure. The end result, is that we often give up if we don't reach our goal by the initial deadline.
+The one common mistake we often make when it comes to setting goals is, we set a deadline, but not a schedule. With this strategy, if we don't achieve the arbitrary deadline what we set in the beginning, we feel like a failure. The end result is that we often give up if we don't reach our goal by the initial deadline.
 
 Instead of giving yourself a deadline to accomplish a particular goal by, you should choose a goal that is important to you and then set a schedule to work towards it consistently.
 
@@ -78,7 +78,7 @@ The important thing to realize is that the best strategy isn't to avoid failure,
 ### 4 Strategies to "plan for chaos"
 
 1. **Put your habits on your calendar:** Give your habits a time and place to live in your life.
-2. **Stick to your schedule, even in small ways:** Find a way to stick to the schedule, no matter how small it is. This strategy allows you to prove yourself that you can get something done even when the situation isn't ideal.
+2. **Stick to your schedule, even in small ways:** Find a way to stick to the schedule, no matter how small it is. This strategy allows you to prove to yourself that you can get something done even when the situation isn't ideal.
 3. **Have someone who expects something of you:** Simply knowing that a familiar face expects to see you can be enough to get you to show up.
 4. **Design your environment for success:** The signs you read, the things that are on your desk at work, the pictures hanging on your wall at home are all pieces of your environment that can trigger you to take different actions.
 
@@ -100,7 +100,7 @@ You can **cut out as many triggers as possible**, the ones that lead to your bad
 
 **Visualize yourself succeeding.** See yourself building a new identity.
 
-**You don't need to be someone else, you just need to return to the old you.** You already have inside of you, that person without your bad habits that you want to become. Even if that was years ago, you have already lived without that bad habit, which means you can most definitely do it again.
+**You don't need to be someone else, you just need to return to the old you.** You already have inside of you, that person without the bad habits that you want to become. Even if that was years ago, you have already lived without that bad habit, which means you can most definitely do it again.
 
 **Use the word 'but' to overcome negative self-talk.** Every time you slip up or make a mistake, it's easy to tell yourself how much you suck. Whenever that happens, finish the sentence with "but".
 

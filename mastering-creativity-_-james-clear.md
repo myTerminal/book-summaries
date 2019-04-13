@@ -6,7 +6,7 @@ It is typical for creative geniuses to work for decades to master their craft. Y
 
 ## How Creative Geniuses Come Up With Great Ideas
 
-*The Book Thief* is a book by Markus Zusak has stayed on the New York Times best-seller list for over 230 weeks, selling 8 million copies, was translated into 40 languages and a few years later the a movie was made based on the book. The author wrote the book about 200 times before he could call it complete. In an interview he said, "In three years, I must have failed over a thousand times, but each failure brought me close to what I need to write, and for that, I'm grateful."
+*The Book Thief* is a book by Markus Zusak has stayed on the New York Times best-seller list for over 230 weeks, selling 8 million copies, was translated into 40 languages and a few years later a movie was made based on the book. The author wrote the book about 200 times before he could call it complete. In an interview, he said, "In three years, I must have failed over a thousand times, but each failure brought me close to what I need to write, and for that, I'm grateful."
 
 ### The Simple Secret to Having Good Luck
 
@@ -18,13 +18,13 @@ Creative geniuses keep repeating and retrying through their will and perseveranc
 
 The only way to release the creative genius inside of us is to work on it. You need to work hard at your ideas and you could uncover more creative powers by forcing yourself to create consistently.
 
-## How to Uncover Your Creative Talent by Using the "Equal Odds Rule"
+## How to Uncover Your Creative Talent by Using the "Equal-Odds Rule"
 
-> The Equal Odds Rule says that the average publication of any particular scientist does not have any statistically different chance of having more of an impact that any other scientist's average publication.
+> The Equal-Odds Rule says that the average publication of any particular scientist does not have any statistically different chance of having more of an impact than any other scientist's average publication.
 
 This means that any scientist is equally likely to create a game-changing piece of work as they are to create something average that is to be quickly forgotten.
 
-The conclusion is that because you can't predict your success, the best strategy is to produce as much work as possible, so that you given the probability, you will have more chance of creating something meaningful.
+The conclusion is that because you can't predict your success, the best strategy is to produce as much work as possible so that given the probability, you will have more chance of creating something meaningful.
 
 ### The Willingness to Create Garbage
 
@@ -62,7 +62,7 @@ Stop waiting for motivation or inspiration to strike you and set a schedule for 
 
 It doesn't matter what you are trying to become better at, if you only do the work when you're motivated, then you'll never be consistent enough to become a professional.
 
-The ability to show up everyday, stick to the schedule, and do the work -
+The ability to show up every day, stick to the schedule, and do the work -
 especially when you don't feel like it - is so valuable that it is literally all you need to become better 99% of the time.
 
 ### The Pain of Being a Pro
@@ -110,7 +110,7 @@ We all have constraints in our lives. The limitations just determine the size of
 
 ### The Power of Ritual
 
-> "I begin each day of my life with a ritual; I wake up at 5:30 A.M., put on my workout clothes, my leg warmers, my sweatshirts, and my hat. I walk outside my Manhattan home, hail a taxi, and tell the driver to take me to the Pumping Iron gym at 91st street and First Avenue, where I workout for two hours. The ritual is not the stretching and weight training I put my body through each morning at the gym; the ritual is the cab. The moment I tell the driver where to go I have completed the ritual. It’s a simple act, but doing it the same way each morning habitualizes it - makes it repeatable, easy to do. It reduces the chance that I would skip it or do it differently. It is one more item in my arsenal of routines, and one less thing to think about." - Twyla Tharp
+> "I begin each day of my life with a ritual; I wake up at 5:30 A.M., put on my workout clothes, my leg warmers, my sweatshirts, and my hat. I walk outside my Manhattan home, hail a taxi, and tell the driver to take me to the Pumping Iron gym at 91st Street and First Avenue, where I work out for two hours. The ritual is not the stretching and weight training I put my body through each morning at the gym; the ritual is the cab. The moment I tell the driver where to go I have completed the ritual. It’s a simple act, but doing it the same way each morning habitualizes it - makes it repeatable, easy to do. It reduces the chance that I would skip it or do it differently. It is one more item in my arsenal of routines, and one less thing to think about." - Twyla Tharp
 
 ### The Surprising Thing About Motivation
 
@@ -118,7 +118,7 @@ If you have trouble sticking to good habits or fall victim to bad ones, then it 
 
 This is basically Newton's First Law applied to habit formation: objects in motion tend to stay in motion. And that means getting started is the hardest part.
 
-### Rituals Are an On Ramp for Your Behavior
+### Rituals Are an On-Ramp for Your Behavior
 
 The power of a ritual, or what I like to call a pre-game routine, is that it provides a mindless way to initiate your behavior. It makes starting your habits easier and that means following through on a consistent basis is easier.
 
@@ -132,4 +132,4 @@ Whatever your ritual is, use it as an on-ramp for the bigger behavior and habits
 
 When the world presents you with something interesting or frustrating or curious, choose to do something about it. Choose to be a creator.
 
-The world needs smart people to build things. And perhaps the most important thing to realize is that we not only need to create for each other, but for ourselves as well. Creating something is the perfect way to avoid wasting the precious moments that we have been given. To contribute, to create, to chip in to the world around you and to add your line to the world's story - that is a life well lived.
+The world needs smart people to build things. And perhaps the most important thing to realize is that we not only need to create for each other but for ourselves as well. Creating something is the perfect way to avoid wasting the precious moments that we have been given. To contribute, to create, to chip into the world around you and to add your line to the world's story - that is a life well lived.
